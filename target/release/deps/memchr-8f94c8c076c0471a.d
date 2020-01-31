@@ -1,0 +1,13 @@
+/home/lucas/rustlings/rustlings/target/release/deps/memchr-8f94c8c076c0471a.rmeta: /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs
+
+/home/lucas/rustlings/rustlings/target/release/deps/libmemchr-8f94c8c076c0471a.rlib: /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs
+
+/home/lucas/rustlings/rustlings/target/release/deps/memchr-8f94c8c076c0471a.d: /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs /home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs
+
+/home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs:
+/home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs:
+/home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs:
+/home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs:
+/home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs:
+/home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs:
+/home/lucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs:

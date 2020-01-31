@@ -1,0 +1,1 @@
+/home/lucas/rustlings/rustlings/target/debug/rustlings-cadc2288e109917c: /home/lucas/rustlings/rustlings/src/exercise.rs /home/lucas/rustlings/rustlings/src/main.rs /home/lucas/rustlings/rustlings/src/run.rs /home/lucas/rustlings/rustlings/src/verify.rs

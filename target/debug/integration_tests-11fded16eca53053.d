@@ -1,0 +1,1 @@
+/home/lucas/rustlings/rustlings/target/debug/integration_tests-11fded16eca53053: /home/lucas/rustlings/rustlings/src/exercise.rs /home/lucas/rustlings/rustlings/src/main.rs /home/lucas/rustlings/rustlings/src/run.rs /home/lucas/rustlings/rustlings/src/verify.rs /home/lucas/rustlings/rustlings/tests/integration_tests.rs
